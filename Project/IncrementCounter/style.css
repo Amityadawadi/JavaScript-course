@@ -1,0 +1,16 @@
+body{
+    font-family: 'Courier New', Courier, monospace;
+    background-color: #30336b;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    color: #fff;
+}
+
+.counter-container {
+    font-size: 30px;
+    text-align: justify;
+    align-items: center;
+    place-items: center;
+}

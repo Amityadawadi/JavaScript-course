@@ -49,4 +49,10 @@
 
 //Math.random() = returns a random number between 0(inclusive) and 1(exclusive)
 
-console.log(Math.random(0, 1));
+// console.log(Math.random()); // 0.3185
+// console.log(Math.floor(Math.random()*10)); // 2
+
+//Math.trunc() // This method returns the integer part of a number
+
+// console.log(Math.trunc(4.6)); // 4
+// console.log(Math.trunc(-99.1)); // -99
